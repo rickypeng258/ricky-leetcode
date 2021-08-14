@@ -4,7 +4,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @Description Leetcode141
+ * @Description 给定一个链表，判断链表中是否有环。
+ * @Link https://leetcode-cn.com/problems/linked-list-cycle/submissions/
  * @Author rickypeng
  * @Date 2021/8/14
  */
